@@ -1,7 +1,9 @@
-## Hi! My name is Deborah Feitosa. How about you? 😀 
-   I'm changing my career path and I'm a curious and single-minded person! 
-   🎓 I'm a translation student at the University of Lisbon.
-   ✏️ My pronouns are she/her.
+<div align="center"> 
+   <h3> Hi! My name is Deborah Feitosa. How about you? 😀 <h3>
+   <h3> I'm changing my career path and I'm a curious and single-minded person! <h3>
+   <h3> 🎓 I'm a translation student at the University of Lisbon.<h3>
+   <h3>✏️ My pronouns are she/her. <h3>
+ <div>
 
 <div align="center">
   <a href="https://github.com/deborahfeitosa">
@@ -27,3 +29,4 @@
  
  
 </div>
+
