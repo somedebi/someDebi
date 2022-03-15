@@ -1,4 +1,6 @@
-## Hi! I'm Deborah Feitosa! A curious and single-minded person! 😀
+## Hi! I'm Deborah Feitosa and I'm changing my career path! I'm a curious and single-minded person! 😀
+   🎓 I'm a translation student at the University of Lisbon.
+   ✏️ My pronouns are she/her.
 
 <div align="center">
   <a href="https://github.com/deborahfeitosa">
