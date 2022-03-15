@@ -32,7 +32,7 @@
 
  ##
       
-![snake gif](https://github.com/DeborahFeitosa/DeborahFeitosa/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DeborahFeitosa/DeborahFeitosa/blob/output/github-contribution-grid-snake.svg)
       
       
       
