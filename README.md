@@ -30,7 +30,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
- ![snake animation](https://github.com/DeborahFeitosa/DeborahFeitosa/blob/main/.github/workflows/sanake1.yml)
+ ##
+      
+![snake gif](https://github.com/DeborahFeitosa/DeborahFeitosa/blob/output/github-contribution-grid-snake.gif)
+      
       
       
 </div>
