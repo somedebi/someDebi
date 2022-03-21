@@ -1,7 +1,7 @@
 <div align="center"> 
    <h4> Hi! My name is Deborah Feitosa. 😀 <h4>
    <h4> 🎓 I'm a translation student at the University of Lisbon.<h3>
-   <h4> I'm changing my career path and I'm a curious and single-minded person! <h4>
+   <h4> I'm changing my career path and I'm a curious and  a single-minded person! <h4>
    <h4>✏️ My pronouns are she/her and you can call me Deb/Debra/Bee. It's up to you! <h4>
  <div>
 
