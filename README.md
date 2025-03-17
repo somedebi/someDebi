@@ -1,6 +1,6 @@
 <div align="center">
   <h2 style="font-weight: bold;">Hi! My name is Déborah.</h2>
-  <h3>Software Test Engineer | QA Automation Enthusiast</h3>
+  <h3>QA Engineer | QA Automation Enthusiast</h3>
   <h4>Focused on Test Automation, Backend QA, and API Testing.</h4>
   <h4>Passionate about quality, automation, and continuous learning.</h4>
   <h4>Based in Lisbon, Portugal.</h4>
