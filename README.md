@@ -58,4 +58,4 @@
 ---
 
 ### **🐍 Contribution Graph**
-![snake gif](https://github.com/DeborahFeitosa/DeborahFeitosa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/somedebi/somedebi/blob/output/github-contribution-grid-snake.svg)
