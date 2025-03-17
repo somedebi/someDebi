@@ -1,9 +1,11 @@
-<div align="center"> 
-   <h4> Hi! My name is Deborah Feitosa. 😀 <h4>
-   <h4> 🎓 I'm a translation student at the University of Lisbon.<h3>
-   <h4> I'm changing my career path. I'm a curious and a single-minded person! <h4>
-   <h4>✏️ My pronouns are she/her and you can call me Deb/Debra/Bee. It's up to you! <h4>
- <div>
+<div align="center">
+  <h2>Hi! My name is Déborah. 😊</h2>
+  <h3>💻 Software Test Engineer | QA Automation Enthusiast</h3>
+  <h3>🚀 Passionate about quality, automation, and continuous learning.</h3>
+  <h3>📍 Based in Lisbon, Portugal.</h3>
+  <h3>💡 Exploring automation, testing strategies, and new technologies.</h3>
+  <h3>✉️ Connect with me: <a href="https://github.com/somedebi">GitHub</a> | <a href="https://twitter.com/somedebi">Twitter</a></h3>
+</div>
 
 <div>
   <a href="https://github.com/deborahfeitosa">
